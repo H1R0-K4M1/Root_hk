@@ -15,4 +15,4 @@
 <img src="img_ferramenta.jpg"></img>
 <p><b>Obs: </b>como todos sabem o caractere $ é para usuários normais que usam o sudo para usar comandos de administrador, e o caractere # para usuários root que já são admin e não precisam digitar sudo no final do cód para obter o privilégio de administrador</p>
 
-## --> Créditos <--
+## Créditos
