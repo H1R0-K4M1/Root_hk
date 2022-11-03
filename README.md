@@ -10,3 +10,6 @@
 * cd Root_hk
 * bash install.sh
 * ./start
+
+## print da ferramenta
+
