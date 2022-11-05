@@ -6,10 +6,10 @@
 </div>
 
 ## Instalação
-* git clone https://github.com/H1R0Z1N/Root_hk
-* cd Root_hk
-* bash install.sh
-* ./start
+* `git clone https://github.com/H1R0Z1N/Root_hk`
+* `cd Root_hk`
+* `bash install.sh`
+* `./start`
 
 ## print da ferramenta
 <img src="img_ferramenta.jpg"></img>
